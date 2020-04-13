@@ -1,0 +1,7 @@
+{
+  "name": "eofficeandroid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
